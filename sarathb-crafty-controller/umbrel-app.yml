@@ -26,4 +26,5 @@ releaseNotes: >-
   Updated to latest Crafty Controller version.
 dependencies: []
 path: ""
-default
+defaultUsername: ""
+defaultPassword: ""
