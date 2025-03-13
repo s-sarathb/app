@@ -1,0 +1,29 @@
+manifestVersion: 1
+id: crafty-controller
+name: Crafty Controller
+tagline: Web-based Minecraft server manager
+icon: https://craftycontrol.com/wp-content/uploads/2021/10/crafty-icon.svg
+category: Games
+version: "4.0.0"
+port: 8000
+description: >-
+  Crafty Controller is a web-based Minecraft server manager.
+
+
+  It lets you manage, start, stop, and monitor Minecraft servers easily.
+
+developer: Crafty Control
+website: https://craftycontrol.com
+submitter: s-sarathb
+submission: https://github.com/s-sarathb/crafty
+repo: https://github.com/s-sarathb/crafty
+support: https://github.com/s-sarathb/crafty/issues
+gallery:
+  - https://craftycontrol.com/wp-content/uploads/2021/10/crafty-dashboard.jpg
+  - https://craftycontrol.com/wp-content/uploads/2021/10/crafty-servers.jpg
+  - https://craftycontrol.com/wp-content/uploads/2021/10/crafty-logs.jpg
+releaseNotes: >-
+  Updated to latest Crafty Controller version.
+dependencies: []
+path: ""
+default
