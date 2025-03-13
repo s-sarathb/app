@@ -9,6 +9,6 @@ services:
       APP_PORT: 8000
     
   server:
-    image: registry.gitlab.com/crafty-controller/crafty-4:latest
+    image: arcadiatechnology/crafty-4
     user: "1000:1000"
     init: true
